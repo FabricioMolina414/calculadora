@@ -7,7 +7,7 @@ En este proyecto se creó una calculadora simple con doble visualizador.
 
 ## Preview :rainbow:
 
-(https://ibb.co/znpT3d2](https://i.ibb.co/HF6fcZP/calculadora.png)
+[![calculadora.png](https://i.postimg.cc/3NZVbYtj/calculadora.png)](https://postimg.cc/y3kLD44W)
 
 
 ## Tecnologías utilizadas :wrench:
