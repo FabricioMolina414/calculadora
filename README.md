@@ -24,4 +24,4 @@ https://fabriciomolina414.github.io/calculadora/
 
 ---
 
-<p align="center">Copyright © 2022 fabriciomolina414</p>
+<p align="center">Copyright © 2022 FabricioMolina414</p>
